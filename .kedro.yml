@@ -1,0 +1,6 @@
+context_path: pyspark_iris.run.ProjectContext
+project_name: "pyspark-iris"
+project_version: "0.16.6"
+package_name: "pyspark_iris"
+hooks:
+  - pyspark_iris.hooks.project_hooks
